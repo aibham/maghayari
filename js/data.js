@@ -1,6 +1,6 @@
 // Editable data: payment links (PAY), template previews (PV), page titles (TT)
 // لینک پرداخت هر فایل را در PAY بگذارید؛ اگر خالی باشد دکمه به بخش «ارتباط» می‌رود.
-const TT={fa:'علی | حسابدار و مشاور مالی و مالیاتی',en:'Ali | Accountant & Tax Advisor'};
+const TT={fa:'مهدی آقایاری سامیان | حسابدار و مشاور مالی و مالیاتی',en:'mahdi aghayari samian | Accountant & Tax Advisor'};
 const PAY={acc:'',bud:'',pay:'',dep:''};
 const PV={
 acc:{c:['کد|Code','حساب|Account','بدهکار|Debit','بستانکار|Credit'],r:[['1101','صندوق|Cash','25,000,000','—'],['1201','بانک|Bank','480,000,000','—'],['2101','حساب‌های پرداختنی|Accounts payable','—','310,000,000'],['4101','درآمد فروش|Sales revenue','—','1,250,000,000']],n:'ریال؛ مقادیر نمونه|Rial; sample values'},
