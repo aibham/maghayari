@@ -1,0 +1,11 @@
+# robots.txt
+# Place this file in the ROOT of your domain: https://maghayari.ir/robots.txt
+
+User-agent: *
+Allow: /
+
+# CSS and JS files are intentionally NOT blocked,
+# so Google can render the page exactly as visitors see it.
+
+# Replace your-domain.ir with your real domain
+Sitemap: https://maghayari.ir/sitemap.xml
